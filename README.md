@@ -15,7 +15,7 @@
 
 A few things about me:
 
-    🔭 I’m currently working through a 16-week SoftWare Engineering Bootcamp at HyperionDev/CoGrammar.
+    🔭 I’m currently working through a 16-week SoftWare Engineering Bootcamp at CoGrammar.
 
     🌱 I’m learning Python!
 
