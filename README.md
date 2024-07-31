@@ -15,14 +15,20 @@
 
 A few things about me:
 
-    🔭 I’m currently working through a 16-week SoftWare Engineering Bootcamp at CoGrammar.
+    🔭 I’m currently working through the FullStackOpen course!
 
-    🌱 I’m learning Python!
+    🌱 JavaScript is my next step in my tech stack.
 
-    👨‍💻 I’m looking to collaborate on all things coding related.
+    👨‍💻 Actively looking to contribute to open-source projects!
 
     ⚡ Fun fact: The first computer mouse was made of wood. TREES FTW.
 
+P.S
+There's an awaiting message for you down below, it just needs to be deciphered 😁👍 Let me know how you do!
+
+"-.- ..- -.. --- ... / - --- / -.-- --- ..- -.-.-- / - .... .- -. -.- ... / ..-. --- .-. / -.-. .... . -.-. -.- .. -. --. / -- -.-- / .--. .-. --- ..-. .. .-.. ."
+
+    💡 Hint: Morse, morse, morse.
 
 <!--
 **ChippySquared/ChippySquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
