@@ -17,7 +17,7 @@ A few things about me:
 
     🔭 I’m currently working through the FullStackOpen course!
 
-    🌱 JavaScript is my next step in my tech stack.
+    🌱 JavaScript is the next step in my tech stack.
 
     👨‍💻 Actively looking to contribute to open-source projects!
 
