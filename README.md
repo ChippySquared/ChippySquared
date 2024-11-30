@@ -13,36 +13,22 @@
 ░░╚██╔╝░╚██╔╝░███████╗███████╗╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗██╗
 ░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚═╝
 
+Thanks for checking my page 🙌
 
+This is the landing page of my Github profile. 
+To check my repositories, click [here](https://github.com/ChippySquared?tab=repositories).
 
-A few things about me:
+I'm also in the process of building a design portfolio showcasing some amazing UI and mockups.
+Once that's finished, I would add a link to it here.
 
-    🔭 I’m currently working through the FullStackOpen course!
+## Did you know?
 
-    🌱 JavaScript is the next step in my tech stack.
+    ⚡ The first computer mouse was made of wood. TREES FTW.
 
-    👨‍💻 Actively looking to contribute to open-source projects!
+## How good are your puzzle skills:
 
-    ⚡ Fun fact: The first computer mouse was made of wood. TREES FTW.
-
-P.S
-There's an awaiting message for you down below, it just needs to be deciphered 😁👍 Let me know how you do!
+I left a message down below, it just needs deciphering. You won't believe what it says 🧠😁👍 Let me know how you do!
 
 "-.- ..- -.. --- ... / - --- / -.-- --- ..- -.-.-- / - .... .- -. -.- ... / ..-. --- .-. / -.-. .... . -.-. -.- .. -. --. / -- -.-- / .--. .-. --- ..-. .. .-.. ."
 
     💡 Hint: Morse, morse, morse.
-
-<!--
-**ChippySquared/ChippySquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
